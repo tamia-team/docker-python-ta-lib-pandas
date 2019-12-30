@@ -77,7 +77,6 @@ Please refer to project's style guidelines and guidelines for submitting patches
 
 ### Thanks to the developers of the very useful dependencies...
 
-*
 * [9fevrier/docker-python-ta-lib](https://github.com/9fevrier/docker-python-ta-lib)
 
 ## <a name="history"> History
@@ -89,7 +88,7 @@ Please refer to [the changelog file](CHANGELOG.md).
 >
 > [The MIT License](https://opensource.org/licenses/MIT)
 >
-> Copyright (c) 2018 [SAS 9 Février](https://9fevrier.com/)
+> Copyright (c) 2019 [Deepnox](https://deepnox.io/)
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
