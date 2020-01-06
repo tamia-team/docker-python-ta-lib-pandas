@@ -1,11 +1,11 @@
-# 9fevrier/python-ta-lib-pandas:0.23.4-talib0.4.17-python3.7.0-alpine3.8_20180922
-# ===============================================================================
+# 9fevrier/python-ta-lib-pandas:0.25.3-talib0.4.17-python3.8.1-alpine3.11_20200106
+# ================================================================================
 
-FROM 9fevrier/python-ta-lib:0.4.17_python3.7.0-alpine3.8_20180922
+FROM 9fevrier/python-ta-lib:0.4.17_python3.8.1-alpine3.11_20200106
 
 MAINTAINER contact@9fevrier.com
 
-ENV PYTHON_PANDAS_VERSION 0.23.4
+ENV PYTHON_PANDAS_VERSION 0.25.3
 
 USER root
 WORKDIR /tmp
