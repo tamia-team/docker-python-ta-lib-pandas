@@ -1,6 +1,13 @@
 Changelog of docker-python-ta-lib-pandas
 ========================================
 
+## [v1.4.3-talib0.4.24-python3.10.6-alpine3.16](https://github.com/deepnox-io/docker-python-ta-lib-pandas/tree/v1.4.3-talib0.4.24-python3.10.6-alpine3.16) (2022-08-25)
+
+* Use latest version of image [deepnox/python-ta-lib](https://github.com/9fevrier/docker-python-ta-lib/tree/v0.4.24_python3.10-alpine3.16).
+* Upgrade to [Python Pandas](https://pandas.pydata.org/) [v1.4.3](http://pandas.pydata.org/pandas-docs/version/1.4.3/)
+* Fix: documentation.
+* Dockerfile: various enhancements.
+
 ## [v0.25.3-talib0.4.17-python3.8.1-alpine3.11_20200106](https://github.com/9fevrier/docker-python-ta-lib-pandas/tree/v0.25.3-talib0.4.17-python3.8.1-alpine3.11_20200106) (2020-01-06)
 
 * Use latest version of image [9fevrier/python-ta-lib](https://github.com/9fevrier/docker-python-ta-lib/tree/v0.4.17_python3.8.1-alpine3.11_20200106).
